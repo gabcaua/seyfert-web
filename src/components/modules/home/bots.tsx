@@ -36,7 +36,7 @@ const bots: {
     username: 'Listen#7518',
     id: '777401960793636934',
     avatar: 'listen',
-    guilds: 3700,
+    guilds: 5100,
     content: (
       <>
         After years of experience with Discord.js, Discordeno and Eris, Seyfert
@@ -47,6 +47,18 @@ const bots: {
       </>
     ),
   },
+  {
+    displayName: 'Multiversal',
+    username: 'Multiversal#9799',
+    id: '1333951511343927326',
+    avatar: 'multiversal',
+    guilds: 160,
+    content: (
+      <>
+        Multiversal is a global chat bot, developed with Seyfert. Over time it has received recognition from numerous servers.
+      </>
+   ),
+},
 ];
 
 export default function HomeBots() {
